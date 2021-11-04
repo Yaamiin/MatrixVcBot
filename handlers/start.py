@@ -22,24 +22,24 @@ I'm here for Entertain you.
             [
                 [
                     InlineKeyboardButton(
-                        "🤴My Master", url="https://t.me/The_Ghost_Hunter",
+                        "🤴My Master", url="https://t.me/yaamiin",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/helpcenterbot1"
+                        "💬 Group", url="https://t.me/Somalibots_help"
                     ),
                     InlineKeyboardButton(
-                        "🔊 My Channel", url="https://t.me/fire_world_entertainment"
+                        "🔊 My Channel", url="https://t.me/Somalimusicbot"
                     ),
                     InlineKeyboardButton(
-                        "📚 Loges", url="https://t.me/helpcenterbotloges"
+                        "🤴My Second Master", url="https://t.me/Somaliprogrammer"
                     ),
                 ],
                 [
                 
                     InlineKeyboardButton(
-                        "💾 Source code", url="https://github.com/HuntingBots/MatrixVcBot"
+                        "💾 Source code", url="https://github.com/captainAbdisamad/MatrixVcBot"
                     )
                 ],
                 [
@@ -63,7 +63,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/fire_world_entertainment"
+                        "🔊 Channel", url="https://t.me/somalimusicbot"
                     )
                 ],    
                 [    
@@ -109,7 +109,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/fire_world_entertainment"
+                        "🔊 Channel", url="https://t.me/somalimusicbot"
                     )
                 ]
             ]
